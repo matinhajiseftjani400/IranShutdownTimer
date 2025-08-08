@@ -77,9 +77,9 @@ IranShutdownTimer/
 
 ## توسعه‌دهنده
 
-متین (Matin)
+[Matin](https://matin-technology.ir/)
 [GitHub](https://github.com/matinhajiseftjani400)
-ایمیل: [your.email@example.com](mailto:your.email@example.com)
+ایمیل: [your.email@example.com](mailto:matin@hajiseftjani.ir)
 
 ---
 
