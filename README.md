@@ -20,7 +20,7 @@
 
 - Python 3.8 یا بالاتر  
 - نصب پکیج‌های زیر:  
-  ```bash
+```bash
   pip install customtkinter pystray pillow
 ````
 
