@@ -89,11 +89,5 @@ IranShutdownTimer/
 و همچنین همه ایرانی‌های دوست‌داشتنی که همیشه پشت سر هم هستند! 🇮🇷💙
 
 ---
-
-## نکته
-
-در صورت هرگونه مشکل، Issue باز کنید یا در Discussions با من تماس بگیرید.
-
-```
-
+👨‍💻  Developed By [Matin](http://matin-technology.ir/)
 ---
