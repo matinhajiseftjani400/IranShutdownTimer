@@ -76,8 +76,9 @@ IranShutdownTimer/
 ---
 
 ## توسعه‌دهنده
+**Matin**
 
-[Matin](https://matin-technology.ir/)
+[Wbsite](https://matin-technology.ir/)
 [GitHub](https://github.com/matinhajiseftjani400)
 [E-mail](mailto:matin@hajiseftjani.ir)
 ---
@@ -88,5 +89,5 @@ IranShutdownTimer/
 و همچنین همه ایرانی‌های دوست‌داشتنی که همیشه پشت سر هم هستند! 🇮🇷💙
 
 ---
-👨‍💻  Developed By [Matin](http://matin-technology.ir/)
+👨‍💻  Developed By [Matin](http://matin-technology.ir/) For Iranians💙
 ---
