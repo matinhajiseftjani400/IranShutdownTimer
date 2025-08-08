@@ -101,7 +101,7 @@ title_label.pack(pady=20)
 time_entry = ctk.CTkEntry(app, placeholder_text="22:45 مثلا", width=250)
 time_entry.pack(pady=10)
 
-warning_entry = ctk.CTkEntry(app, placeholder_text="بدم؟ را هشدار چند دقیقه قبل", width=250)
+warning_entry = ctk.CTkEntry(app, placeholder_text="بدهم؟ قبل چند دقیقه را هشدار", width=250)
 warning_entry.pack(pady=10)
 
 
