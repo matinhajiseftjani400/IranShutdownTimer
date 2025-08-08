@@ -52,7 +52,7 @@
 ## اسکرین‌شات
 
 <p align="center">
-  <img src="screenshots/app_screenshot.png" alt="نمایی از برنامه" width="400"/>
+  <img src="img/app_screenshot.png" alt="نمایی از برنامه" width="400"/>
 </p>
 
 ---
